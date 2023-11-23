@@ -51,6 +51,9 @@
   - 投稿一覧
   - 投稿詳細
   - 投稿作成
+    - 画像投稿は複数枚可能
+      - ImageMagick,MiniMagickで画像加工
+      - Active Storageで画像保存
   - 投稿編集
   - 投稿削除
   - コメント
