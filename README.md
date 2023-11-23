@@ -86,3 +86,6 @@
   - 「Amazonアフィリエイト」を使用した、グッズの画像付きリンクを追加
 - ログイン
   - ゲストユーザーでのログイン
+
+## 画面遷移図
+https://www.figma.com/file/EWhhdX6Laad9SzDdOefpUk/children_risk_management_app?type=design&node-id=0%3A1&mode=design&t=H28UAz0MKIbUG1Q1-1
