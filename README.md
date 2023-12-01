@@ -95,3 +95,7 @@
 
 ## 画面遷移図
 https://www.figma.com/file/EWhhdX6Laad9SzDdOefpUk/children_risk_management_app?type=design&node-id=0%3A1&mode=design&t=H28UAz0MKIbUG1Q1-1
+
+## ER図
+- drawio
+https://drive.google.com/file/d/1v4XCEEdFCvoIAHlMvAhzjiMOHVTMK1pF/view?usp=sharing
